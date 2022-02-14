@@ -1,18 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.a4f5192b.css",
-    "main.js": "/static/js/main.ccad6cab.js",
+    "main.css": "/static/css/main.ea27c771.css",
+    "main.js": "/static/js/main.c5042143.js",
     "static/js/787.d2ba7ec0.chunk.js": "/static/js/787.d2ba7ec0.chunk.js",
+    "static/media/casos-exito-1.mp4": "/static/media/casos-exito-1.6d36d32750b9d9307a2d.mp4",
+    "static/media/nosotros-2-5.png": "/static/media/nosotros-2-5.b146fc080fb5031123c8.png",
+    "static/media/nosotros-2-4.png": "/static/media/nosotros-2-4.977ac35f228dcd6a3e51.png",
+    "static/media/nosotros-2-6.png": "/static/media/nosotros-2-6.cf6ea790115f228bc71d.png",
+    "static/media/nosotros-2-2.png": "/static/media/nosotros-2-2.3ca497acc73fce60c08d.png",
+    "static/media/nosotros-2-1.png": "/static/media/nosotros-2-1.db67d7f4434ed3f74e31.png",
+    "static/media/nosotros-1.png": "/static/media/nosotros-1.486442a714dfe17ce4b3.png",
+    "static/media/servicios.png": "/static/media/servicios.7ca4087d519e38a835ee.png",
+    "static/media/nosotros-2-3.png": "/static/media/nosotros-2-3.dae6a58ba117730ffa89.png",
+    "static/media/inicio.png": "/static/media/inicio.c8de3331c9b35c0d62dd.png",
     "static/media/Imagotipo M TECHNOLOGY original.png": "/static/media/Imagotipo M TECHNOLOGY original.b185c424bb5aeccaf155.png",
     "static/media/Imagotipo M TECHNOLOGY blanco.png": "/static/media/Imagotipo M TECHNOLOGY blanco.005541d624155349daf6.png",
     "static/media/employment-laws-min.jpg": "/static/media/employment-laws-min.6fd63af9246ca07a3266.jpg",
     "index.html": "/index.html",
-    "main.a4f5192b.css.map": "/static/css/main.a4f5192b.css.map",
-    "main.ccad6cab.js.map": "/static/js/main.ccad6cab.js.map",
+    "main.ea27c771.css.map": "/static/css/main.ea27c771.css.map",
+    "main.c5042143.js.map": "/static/js/main.c5042143.js.map",
     "787.d2ba7ec0.chunk.js.map": "/static/js/787.d2ba7ec0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a4f5192b.css",
-    "static/js/main.ccad6cab.js"
+    "static/css/main.ea27c771.css",
+    "static/js/main.c5042143.js"
   ]
 }
